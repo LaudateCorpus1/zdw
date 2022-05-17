@@ -44,7 +44,7 @@
     <!-- Commons -->
     <commons-pool.version>2.6.1</commons-pool.version>
     <commons-net.version>3.6</commons-net.version>
-    <commons-compress.version>1.18</commons-compress.version>
+    <commons-compress.version>1.21</commons-compress.version>
     <xz.version>1.8</xz.version>
 
     <!-- Testing -->
